@@ -1,5 +1,5 @@
 {
-  "client_id": "https://raw.githubusercontent.com/hamzaahafeez/upwork-client-metadata/main/client-metadata.json",
+  "client_id": "https://hamzaahafeez.github.io/upwork-client-metadata/client-metadata.json",
   "client_name": "My Upwork Chrome Extension",
   "redirect_uris": [
     "https://gplnpfibjohmiacjfjefgblgaofkdhmj.chromiumapp.org/"
