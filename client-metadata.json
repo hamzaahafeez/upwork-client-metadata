@@ -1,0 +1,14 @@
+{
+  "client_id": "https://upworkjson.hostmora.app",
+  "client_name": "My Upwork Chrome Extension",
+  "redirect_uris": [
+    "https://gplnpfibjohmiacjfjefgblgaofkdhmj.chromiumapp.org/"
+  ],
+  "grant_types": [
+    "authorization_code"
+  ],
+  "response_types": [
+    "code"
+  ],
+  "token_endpoint_auth_method": "none"
+}
